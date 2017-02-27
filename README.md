@@ -21,9 +21,10 @@
 
 ### Дополнительные источники данных
 
-* Хаб открытых данных - http://hubofdata.ru
-* Портал открытых данных - http://data.gov.ru
 * Каталог порталов открытых данных по России - https://github.com/infoculture/awesome-opendata-rus
+* Хаб открытых данных - http://hubofdata.ru
+* Госзатраты - https://clearspending.ru/page/for-developers/
+
 
 ## Идеи и задачи для хакатона
 
