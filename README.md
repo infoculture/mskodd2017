@@ -37,6 +37,7 @@
 * Каталог порталов открытых данных по России - https://github.com/infoculture/awesome-opendata-rus
 * Хаб открытых данных - http://hubofdata.ru
 * Госзатраты - https://clearspending.ru/page/for-developers/
+* Реестр соглашений о предоставлении субсидий из федерального бюджета - http://rs.budget.gov.ru
 
 
 ## Идеи и задачи для хакатона
