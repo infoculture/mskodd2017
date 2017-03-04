@@ -55,10 +55,11 @@ https://github.com/infoculture/datatasks/issues
 
 ## Где общаться и задавать вопросы?
 
-Вопросы можно задавать:
-* Ивану Бегтину в Telegram - http://telegram.me/begtinchat
+Вопросы можно задавать: 
+* В чате msk.opendataday - https://t.me/mskopendataday (будет действовать на время ODD, 4-5 марта )
 * На чате Telegram по открытым данным - https://telegram.me/opendatarussiachat
-* На канале в Slack - https://opendatarussia.slack.com/messages
+* Ивану Бегтину в Telegram - http://telegram.me/begtinchat
+* На канале в Slack - https://opendatarussia.slack.com/messages (для регистрации напишите на ibegtin@infoculture.ru)
 
 # Есть что дополнить?
 
