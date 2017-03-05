@@ -27,7 +27,8 @@
 
 ### База показателей муниципальной статистики Росстата
 
-Данные в процессе подготовки. Ожидаются к публикации 4 марта, за день до хакатона.
+Данные в CSV формате - http://cdn2.sdlabs.ru/preservation/rosstat/
+презентация Дмитрия Скугаревского с объяснением как с данными работать http://cdn2.sdlabs.ru/preservation/rosstat/presentation_opendataday17_district-level_data_Skougarevskiy.pdf
 
 ### Данные ЦИАН
 
